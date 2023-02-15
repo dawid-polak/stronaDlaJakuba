@@ -1,0 +1,34 @@
+{
+    "skills": [
+        {
+            "id": 0,
+            "name": "Microsoft Office",
+            "percent": 60
+        },
+        {
+            "id": 1,
+            "name": "Software skills",
+            "percent": 80
+        },
+        {
+            "id": 2,
+            "name": "Attention to detail",
+            "percent": 90
+        },
+        {
+            "id": 3,
+            "name": "Problem-Solving Skills",
+            "percent": 85
+        },
+        {
+            "id": 4,
+            "name": "Math skills",
+            "percent": 100
+        },
+        {
+            "id": 5,
+            "name": "Communication skills",
+            "percent": 95
+        }
+    ]
+}
