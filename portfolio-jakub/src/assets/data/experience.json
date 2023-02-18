@@ -5,43 +5,56 @@
             "year": "2017",
             "company": "Distribution of advertisement for Tommys Fönsterputs.",
             "description": "I physically drove around Stockholm distributing ads for a window cleaning company. Learned to plan work and route effectively, face various weather conditions and report my work.",
-            "references": [{
-                "text": "",
-                "author": ""
-            }]
+            "references": [
+                {
+                    "text": "",
+                    "author": ""
+                }
+            ]
         },
         {
             "id": 1,
             "year": "2018",
             "company": "Summer-work at Subtopia.",
             "description": "I organised activities for children, took care of food for them and did some documentation. I learned a lot about cooperating with more or less difficult coworkers and children.",
-            "references": [{
-                "text": "",
-                "author": ""
-            }]
+            "references": [
+                {
+                    "text": "",
+                    "author": ""
+                }
+            ]
         },
         {
             "id": 2,
             "year": "2018 - 2022",
             "company": "Electrician at NewEL.",
             "description": "I installed car chargers (hardware, software, network, heavy cables, electrical assemblies, load balancers) for organisations and private owners. I also worked on smart house systems and LED lighting, both outdoor and indoor.",
-            "references": [{
-                "text": "",
-                "author": ""
-            }]
+            "references": [
+                {
+                    "text": "'Jakubs personality gave him a quick development in his profession. He got more and more responsability and made him a independent, caretaking installation technician. Jakub became, with his polite and engaged manner, a very appreciated coworker, both by collegue technicians and people within administration. (...) It is with great respect that I look upon Jakub as a person and coworker. I can, with great confidence, recommend Jakub to whom is interested in his services.'",
+                    "author": "- Tomas Hagman, CEO at NewEL"
+                }
+            ]
         },
         {
             "id": 3,
             "year": "2022 - 2023",
-            "company": "Distribution of advertisement for Tommys Fönsterputs.",
+            "company": "Electrician and larm technician at Burtec.",
             "description": "I installed burglar alarm systems in very high-security places, like large hospitals, laboratories and server rooms. I took part in the construction of booths at big events. I also did electrical work that includes renovating the electrical part of old, delicate and exclusive historical buildings, apartments and offices. At times my work included administrative work, such as taking care of the company's economy, accountant tasks, organising and keeping track of storage content. Because of my very varied range of tasks I acquired traits, such as flexibility. While working for Burtec I got hired in by companies, such as Mysec, Adapt and DAEL.",
-            "references": [{
-                "text": "'You have worked hard and you are willing to learn new things. You are also inventive and solve problems, but you are also not afraid to ask for advice when you're unsure about something'",
-                "author": "- Robert, Teamleader at DAEL"
-            },{
-                "text": "'Jakub is motivated, action-oriented, punctual and has a good work ethic. Fulfills his duties(...) Jakub is humble, friendly and I can highly recommend him'",
-                "author": "- Dawid, Teamleader at DAEL"
-            }]
+            "references": [
+                {
+                    "text": "'You have worked hard and you are willing to learn new things. You are also inventive and solve problems, but you are also not afraid to ask for advice when you're unsure about something'",
+                    "author": "- Robert, Teamleader at DAEL"
+                },
+                {
+                    "text": "'Jakub is motivated, action-oriented, punctual and has a good work ethic. Fulfills his duties(...) Jakub is humble, friendly and I can highly recommend him'",
+                    "author": "- Dawid, Teamleader at DAEL"
+                },
+                {
+                    "text": "'Jakub has been an excellent colleague and employee here at Burtec. We have tasked him to take on several projects alone which he has done to complete satisfaction to us and our customers. One thing that especially stands out about Jakub is his ability to solve problems. Customer contact has been excellent and we have received great feedback which has strengthened our companies reputation. Jakub has been keen on learning new things, and has always taken on tasks even though they may be difficult and complicated. If mistakes are made, Jakub has always taken it upon himself to correct them even if it is to his own cost. As Jakub leaves us now we wish him all the best with his new Job wherever it may be.'",
+                    "author": "- Joshua Burgess, CEO at Burtec"
+                }
+            ]
         }
     ]
 }
