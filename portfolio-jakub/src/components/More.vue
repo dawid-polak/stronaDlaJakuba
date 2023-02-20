@@ -2,11 +2,11 @@
     <div class="more">
         <div class="container">
             <div class="swedish">
-                <h1>Swidish:</h1>
+                <h1>Swedish:</h1>
                 <p>Fluently</p>
             </div>
             <div class="english">
-                <h1>Endlish:</h1>
+                <h1>English:</h1>
                 <p>Fluently</p>
             </div>
             <div class="russian">

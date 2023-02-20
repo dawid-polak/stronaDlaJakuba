@@ -34,7 +34,6 @@ export default {
 
     h1 {
         font-size: 80px;
-
     }
 
     .file {
@@ -47,6 +46,7 @@ export default {
             padding: 50px;
             color: #000;
             cursor: pointer;
+            width: 50%;
 
             img {
                 width: 60%;

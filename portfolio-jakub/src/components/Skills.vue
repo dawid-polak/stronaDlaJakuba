@@ -5,7 +5,7 @@
         <div class="container">
             <div v-for="skill in dataRef" :key="skill" class="skill">
                 <p>{{ skill.name }}</p>
-                <input class="skill-input" type="range" min="1" max="100" :value="skill.percent" style="">
+                <input class="skill-input" type="range" min="1" max="100" :value="0" style="">
                 <p>{{ skill.percent }}%</p>
             </div>
         </div>
@@ -93,6 +93,7 @@ export default {
                 appearance: none;
             }
 
+            //chrome
             input::-webkit-slider-thumb {
                 -webkit-appearance: none;
                 appearance: none;
@@ -100,7 +101,6 @@ export default {
                 height: 15px;
                 background-color: #FFF;
                 width: 100%;
-                margin-left: -40%;
             }
 
             .input-white-60::-webkit-slider-thumb {
@@ -122,6 +122,34 @@ export default {
             }
             .input-white-100::-webkit-slider-thumb {
                 margin-left: 0%;
+            }
+
+            //mozzila
+            input::-moz-range-thumb {
+                height: 18px;
+                background-color: #FFF;
+                border: 0;
+                left: 0;
+            }
+            .input-white-60::-moz-range-thumb {
+                width: 60%;
+            }
+            .input-white-80::-moz-range-thumb {
+                width: 80%;
+            }
+
+            .input-white-85::-moz-range-thumb {
+                width: 85%;
+            }
+
+            .input-white-90::-moz-range-thumb {
+                width: 90%;
+            }
+            .input-white-95::-moz-range-thumb {
+                width: 95%;
+            }
+            .input-white-100::-moz-range-thumb {
+                width: 100%;
             }
         }
     }

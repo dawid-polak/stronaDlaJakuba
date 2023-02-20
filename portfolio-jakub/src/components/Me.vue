@@ -24,7 +24,7 @@ export default {
     flex-flow: column;
     align-items: center;
     justify-content: center;
-    font-size: 9px;
+    font-size: 12px;
     margin: 5px 0px 5px 0px;
 
     p {
@@ -34,6 +34,7 @@ export default {
     a {
         color: $yellow;
         font-weight: 500;
+        cursor: pointer;
     }
 }
 
