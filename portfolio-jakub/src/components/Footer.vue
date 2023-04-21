@@ -11,12 +11,15 @@
             </div>
             <div class="box">
                 <img src="../assets/icons/telephone.png" alt="phone">
-                <a href="tel:+46 722 58 38 99">+46 722 58 38 99 </a>
-                <a href="tel:+48 606 341 688"> +48 606 341 688</a>
+                <div class="box-phone">
+                    <a href="tel:+46 722 58 38 99">+46 722 58 38 99 </a>
+                    <a href="tel:+48 606 341 688"> +48 606 341 688</a>
+                    <a href="tel:+47 45 553 763"> +47 45 553 763</a>
+                </div>
             </div>
             <div class="box">
                 <img src="../assets/icons/home.png" alt="home">
-                Forvägen 1, lgh 1002 145 51 <br> Norsborg Stockholm, Sweden
+                Bjørgelien 37, 5141 <br> Bergen, Norway
             </div>
         </div>
     </div>
@@ -74,6 +77,11 @@ export default {
             font-size: 35px;
             font-weight: 200;
             margin: 25px;
+
+            .box-phone {
+                display: flex;
+                flex-wrap: wrap;
+            } 
 
             img { 
                 width: 70px;
