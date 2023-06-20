@@ -3,13 +3,19 @@
 
         <h1>documents.</h1>
         <div class="file">
-            <a href="https://drive.google.com/file/d/1D8yDJF7RvdIwpzirqI7D5fYQJjEKiEQv/view?usp=share_link">
+            <a href="https://drive.google.com/file/d/1KWlsORTA2JKSJ2jtqozS6DGs_d_-bLmQ/view?usp=sharing">
                 <img src="../assets/img/cv.png" alt="cv">
                 <h5>cv</h5>
             </a>
             <a href="https://drive.google.com/file/d/1hfVhXxF5AJb1NOoO4DnWy7bT8kUW188F/view?usp=share_link">
                 <img src="../assets/img/reference.png" alt="reference">
                 <h5>reference</h5>
+            </a>
+        </div>
+        <div class="file">
+            <a href="https://drive.google.com/file/d/1jR6rtdxLWsnT6dmHLGTKxfKez2tW6s-c/view?usp=sharing">
+                <img src="../assets/img/godkjenning.png" alt="godkjenning">
+                <h5>Godkjenning DSB</h5>
             </a>
         </div>
     </div>
